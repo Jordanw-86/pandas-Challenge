@@ -2,7 +2,7 @@
 
 ## PyCitySchools
 
-![Education](Images/Education.gif)
+
 
 
 ## Background
